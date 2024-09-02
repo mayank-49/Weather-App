@@ -7,7 +7,6 @@
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
     font-weight: 500;
-    /* animation: zoom 1s ease linear ; */
     font-style: normal;
 }
 body{
@@ -35,7 +34,6 @@ body{
 .header{
     margin-top: 7px;
     border-radius: 20px;
-    /* background-color: aquamarine; */
 }
 .header input{
     height: 35px;
@@ -50,7 +48,6 @@ body{
     border-radius: 8px;
 }
 .header input::placeholder{
-    /* padding-left: 10px; */
     font-size: 1.1rem;
     color: #000;
    
@@ -67,9 +64,7 @@ body{
     margin: 5px;
 }
 .header .btn:hover{ 
-    /* color: #fff; */
     cursor: pointer;
-    /* background-color: rgb(255, 60, 0);   */
 }
 .weather-body{
     display: flex;
@@ -79,7 +74,6 @@ body{
     align-items: center;
 }
 .weather-box{
-    /* background-color: yellow; */
     margin-top: 10px;
     color: white;
 }
@@ -96,7 +90,6 @@ body{
     width: 150px;
 }
 .weather-data{
-    /* background-color: red; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -105,7 +98,6 @@ body{
     margin-top: 12px;
     margin-left: 7px;
     margin-right: 7px;
-    /* background-color: green; */
 }
 .text span{
     font-size: 1.6rem;
